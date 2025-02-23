@@ -28,3 +28,4 @@ C:\Users\ADMIN\OneDrive\Desktop\.net\WebApp_UnderTheHood\WebApp_UnderTheHood\obj
 C:\Users\ADMIN\OneDrive\Desktop\.net\WebApp_UnderTheHood\WebApp_UnderTheHood\obj\Debug\net8.0\WebApp_UnderTheHood.pdb
 C:\Users\ADMIN\OneDrive\Desktop\.net\WebApp_UnderTheHood\WebApp_UnderTheHood\obj\Debug\net8.0\WebApp_UnderTheHood.genruntimeconfig.cache
 C:\Users\ADMIN\OneDrive\Desktop\.net\WebApp_UnderTheHood\WebApp_UnderTheHood\obj\Debug\net8.0\ref\WebApp_UnderTheHood.dll
+C:\Users\ADMIN\OneDrive\Desktop\.net\WebApp_UnderTheHood\WebApp_UnderTheHood\obj\Debug\net8.0\WebApp_UnderTheHood.sourcelink.json
