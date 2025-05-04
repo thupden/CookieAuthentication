@@ -15,7 +15,7 @@ namespace WebApp_UnderTheHood.Pages.Account
         {
         }
 
-        public async Task<IActionResult> OnPost()
+        public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid) return Page();
             if(Credential.UserName == "admin" && Credential.Password == "password")
